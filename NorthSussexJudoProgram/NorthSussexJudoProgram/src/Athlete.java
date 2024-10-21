@@ -3,8 +3,9 @@ import java.util.Scanner;
 public class Athlete {
     private String name;
     private int competitionsEntered;
-
-    // method for enter the athlete's name validation
+ 
+    //this is a test for github
+    // method for enter the athlete's name validation 
     public void enterName() {
         Scanner scanner = new Scanner(System.in);
         do {
